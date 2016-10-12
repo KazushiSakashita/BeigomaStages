@@ -1,7 +1,7 @@
 # BeigomaStages
 ## Overview
 
-[某サークル](http://tut-cc.org/)で作ってるゲームのステージモデル  
+[サークル](http://tut-cc.org/)で作ってるゲームのステージモデル  
 
 ## Description
 
